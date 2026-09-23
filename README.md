@@ -22,14 +22,3 @@ The business wants to understand what is driving revenue and profitability acros
 The final **Tableau** dashboard provides an interactive overview of revenue, profitability, product performance.
 https://public.tableau.com/app/profile/jarold.moreno/viz/RestaurantRevenueDashboard_17900898010520/Dashboard1
 
-
-## Recommendations
-Based on the findings, potential areas for further investigation include:
-
-  - Identifying high-performing products for greater promotion
-  - Investigating underperforming products
-  - Comparing performance between locations
-  - Understanding differences between customer segments
-  - Investigating the relationship between wait times and customer ratings
-  - Exploring how external conditions may influence restaurant demand
- 
