@@ -63,18 +63,32 @@ https://public.tableau.com/app/profile/jarold.moreno/viz/RestaurantRevenueDashbo
 ## Project Structure
 
 restaurant-sales-analysis/
+
 │
+
 ├── README.md
+
 │
+
 ├── data/
+
 │   └── restaurant_sales_may2025-september2026.csv
+
 |   └── restaurant_sales_may2025-september2026_clean.csv
+
 │
+
 ├── sql/
+
 │   ├── 01_data_cleaning.sql
+
 │   ├── 02_exploratory_analysis.sql
+
 │   └── 03_business_questions.sql
+
 │
+
 ├── tableau/
+
 │   └── restaurant_sales_dashboard.twbx
 
