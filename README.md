@@ -59,3 +59,22 @@ https://public.tableau.com/app/profile/jarold.moreno/viz/RestaurantRevenueDashbo
 4. Use food-and-drink promotional strategies.
 5. Develop loyalty and campaigns for customer re-visits.
 6. Reduce orders exceeding 20-30 minutes to reduce negative reviews.
+
+## Project Structure
+
+restaurant-sales-analysis/
+│
+├── README.md
+│
+├── data/
+│   └── restaurant_sales_may2025-september2026.csv
+|   └── restaurant_sales_may2025-september2026_clean.csv
+│
+├── sql/
+│   ├── 01_data_cleaning.sql
+│   ├── 02_exploratory_analysis.sql
+│   └── 03_business_questions.sql
+│
+├── tableau/
+│   └── restaurant_sales_dashboard.twbx
+
