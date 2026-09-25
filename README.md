@@ -25,12 +25,15 @@ https://public.tableau.com/app/profile/jarold.moreno/viz/RestaurantRevenueDashbo
 
 ## Key Findings
 1. **Revenue performance over time:**
+
    Revenue shows seasonal variation, with stronger performance during the summer months and lower revenue during autumn-winter periods. This is an opportunity to align staffing, inventory and promotional activity given historical demand patterns.
 
-2. **Which location generates the most revenue:**
-   Norwich city centre generated £471k in revenue compared with £385k at Riverside location. However, the average revenue per order is almost identical. This suggests that the revenue difference is primarily driven by order volume rather than customer spend per order.
+3. **Which location generates the most revenue:**
 
-3. **Which products generate the most revenue/profit:**
+    Norwich city centre generated £471k in revenue compared with £385k at Riverside location. However, the average revenue per order is almost identical. This suggests that the revenue difference is primarily driven by order volume rather than customer spend per order.
+
+5. **Which products generate the most revenue/profit:**
+
    The major revenue generators include:
    - Seafood Paella: ~£129k
    - Black Rice: ~£125k
@@ -38,11 +41,21 @@ https://public.tableau.com/app/profile/jarold.moreno/viz/RestaurantRevenueDashbo
    - Vegetable Paella: ~£102k
   However, higher revenue does not necessarily mean higher profit margin. Paella dishes in this case generate more profit because of the sales volume but drinks have a much higher margin.
 
-4. **Which customer type generates more value:**
+6. **Which customer type generates more value:**
+
    Returning customers generate the largest amount of revenue and profit. In this analysis returning customers account for ~48% of total revenue. Loyal customers has the highest average item revenue but the difference between the others is relatively small.
    
-6. **Does waiting time affect revenue/custoemer experince:**
+8. **Does waiting time affect revenue/custoemer experince:**
+
    There is a clear negative association between waiting time and customer rating. Longer waiting times are associated with lower customer ratings.
-8. **Does weather affect sales:**
+10. **Does weather affect sales:**
+  
    Weather have a stronger relationship with order volume than average order value. Average revenue per order remained stable across weather conditions.
     
+## Recommendations
+1. Investigate footfall, channels and peak periods at the Riverside location.
+2. Adjust staffing, stock and promotions according to seasonal trends.
+3. Maintain availability of certain products and optimise food costs.
+4. Use food-and-drink promotional strategies.
+5. Develop loyalty and campaigns for customer re-visits.
+6. Reduce orders exceeding 20-30 minutes to reduce negative reviews.
